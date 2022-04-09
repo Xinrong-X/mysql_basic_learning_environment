@@ -64,4 +64,4 @@ mysql> show variables like 'collation_%';
 3 rows in set (0.01 sec)
 ```
 ##### 7. remote connection test using navicat
-![alt tag](https://raw.githubusercontent.com/kiwenlau/hadoop-cluster-docker/master/hadoop-cluster-docker.png)
+![alt tag](https://github.com/Machine-gun-dadadadadadada/mysql_basic_learning_environment/raw/master/test.png)
