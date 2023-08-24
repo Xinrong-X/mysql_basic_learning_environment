@@ -4,7 +4,7 @@
 
 ##### 1. pull docker images（拉取镜像）
 ```
-sudo docker pull nanamisauce/mysql_basic_learning_environment
+docker pull nanamisauce/mysql_basic_learning_environment
 ```
 ##### 2. clone github repository（拉取github仓库文件，非必要）
 ```
